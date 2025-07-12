@@ -30,5 +30,5 @@
 Puedes escribirme para colaboraciones, proyectos o si tienes alguna oferta de prácticas/profesional:
 
 - ✉️ **Correo:** marian.kelly@ejemplo.com  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/marian-kelly-guzman-mares-262a8a24b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/marian-kelly-guzman-mares-262a8a24b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 🧠 Siempre dispuesta a aprender y compartir conocimiento 🤝
