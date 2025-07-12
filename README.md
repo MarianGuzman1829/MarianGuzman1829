@@ -29,6 +29,6 @@
 ## 📫 ¡Conectemos!
 Puedes escribirme para colaboraciones, proyectos o si tienes alguna oferta de prácticas/profesional:
 
-- ✉️ **Correo:** marian.kelly@ejemplo.com  
+- ✉️ **Correo:** marianguzman1829@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/marian-kelly-guzman-mares-262a8a24b)  
 - 🧠 Siempre dispuesta a aprender y compartir conocimiento 🤝
