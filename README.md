@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Marian Kelly
 
-🎓 Soy estudiante de la **Escuela Superior de Cómputo (ESCOM) del Instituto Politécnico Nacional (IPN)**, apasionada por el desarrollo de software, las redes y la innovación tecnológica.    
-🌱 Me encanta aprender nuevas tecnologías y aplicar mis conocimientos en proyectos que resuelvan problemas reales.  
-🚀 Actualmente estoy en búsqueda de una oportunidad profesional para seguir creciendo en el área de TI.
+🎓 Soy estudiante de la **Escuela Superior de Cómputo (ESCOM) del Instituto Politécnico Nacional (IPN)** apasiona por la tecnologia, desde redes y circuitos hasta programación en frontend y backend.  
+📱 Me apasiona el desarrollo web y móvil, donde puedo combinar creatividad, funcionalidad y experiencia de usuario, sin embargo, me encanta aprender nuevas tecnologias y aplicar mis conocimientos en proyectos que resuelvan probelmas reales. Actualmente estoy comenzando a explorar el **desarrollo de videojuegos**, un área que me emociona por su capacidad de integrar arte, lógica y narrativa interactiva.
+🚀 Me encuentro en búsqueda de una oportunidad profesional para seguir creciendo en el área de TI.
 
 ## 🛠️ Tecnologías que manejo
 
